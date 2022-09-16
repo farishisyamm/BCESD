@@ -1,0 +1,10 @@
+{
+    "name": "faris/crudlaravel",
+    "description": "CRUD Laravel for BC ESD",
+    "authors": [
+        {
+            "name": "faris"
+        }
+    ],
+    "require": {}
+}
